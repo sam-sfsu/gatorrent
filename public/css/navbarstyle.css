@@ -1,0 +1,28 @@
+/* 
+    Created on : Nov 13, 2016, 9:22:57 PM
+    Author     : Ronald
+*/
+
+#dropdown-login {
+    padding: 15px;
+    min-width: 250px;
+}
+.navbar-nav li a,
+.navbar-inverse .navbar-brand, 
+.navbar-inverse .navbar-brand:focus, 
+.navbar-inverse .navbar-brand:active,
+.navbar-inverse .navbar-brand.active {
+    color: #FFF !important; 
+}
+.navbar-nav li a:hover,
+.navbar-inverse .navbar-brand:hover {
+    color: #AAA !important;
+}
+.navbar-inverse .navbar-nav>.active>a, 
+.navbar-inverse .navbar-nav>.active>a:focus, 
+.navbar-inverse .navbar-nav>.active>a:hover{
+    background-color: #666 !important;
+}
+.navbar {
+    margin-bottom: 0 !important;
+}
